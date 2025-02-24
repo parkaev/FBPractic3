@@ -85,7 +85,7 @@ const swaggerOptions = {
             },
         ],
     },
-    apis: ['./server.js'], // укажите путь к файлам с аннотациями
+    apis: ['./description.yaml'], // укажите путь к файлам с аннотациями
 };
 
 const swaggerDocs = swaggerJsDoc(swaggerOptions);

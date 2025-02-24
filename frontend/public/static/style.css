@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    max-width: 9600px;
+    margin: 0 auto;
+}
+
+.card {
+    background-color: #393939 !important;
+    color: white !important;
+}
+
